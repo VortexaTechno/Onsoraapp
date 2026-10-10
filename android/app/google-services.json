@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "918600481228",
+    "project_id": "onsora-75754",
+    "storage_bucket": "onsora-75754.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:918600481228:android:5eaa4079fe51b64f7fc569",
+        "android_client_info": {
+          "package_name": "com.onsora.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "918600481228-t61isd114busbhii12tgulo89uoprui9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV1bhk4n37JPQqmFS7LynSXIC3aV9CoRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "918600481228-t61isd114busbhii12tgulo89uoprui9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
